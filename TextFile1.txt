@@ -1,0 +1,13 @@
+
+I chose the last question, number twenty, regarding expiring items, tracking values with timestamps and removing items
+older than a threshold. The best data structure I found that is most suitable in solving this problem is a queue. 
+I chose a queue because I was dealing with order, and I needed the new items to be added to the back of the queue 
+while keeping the older items at the front of the queue, as they expire first. This all matches the FIFO behavior 
+of a queue, which is needed for this problem.
+The time limit shaped my decision in that I wanted to pick a problem that has a clear solution and direction and, 
+when given the choice to pick my problem, I start at the end so I have a chance to pick something no one else chose. 
+The compromise I made under time pressure I would say is in picking the problem that I would know the answer to the most, 
+since I knew that I would be short on time. I feel that, when writing code under pressure, you think first what approach 
+to take before you start in order to save time and go from there. Since you’ll be testing your code to make sure it works,
+know what tests to run to cover any edge cases, try to break your machine by putting it to the test.
+ 
